@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/adnanhamza27/food/
-   cd restaurant-web-app
+   cd food
 ## Getting Started
 
 First, run the development server:
