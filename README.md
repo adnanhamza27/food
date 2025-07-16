@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Auteurs
-[Hamza ADNAN](https://github.com/adnanhamza27)
+[Hamza ADNAN](https://github.com/adnanhamza27), 
 [Khadija ADNAN](https://github.com/adnan-khadija)
 
 
