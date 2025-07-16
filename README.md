@@ -13,8 +13,7 @@ A modern, responsive web application for a restaurant, built with [Next.js](http
 ## Tech Stack
 - **Framework**: Next.js
 - **Styling**: Tailwind CSS
-- **Deployment**: Vercel (recommended) or other Node.js hosting platforms
-- **Language**: JavaScript (ES6+)
+- **Language**: TypeScript
 - **Package Manager**: npm or Yarn
 
 ## Prerequisites
@@ -26,7 +25,7 @@ Ensure you have the following installed:
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/restaurant-web-app.git
+   git clone [https://github.com/your-username/restaurant-web-app.git](https://github.com/adnanhamza27/food/)
    cd restaurant-web-app
 ## Getting Started
 
